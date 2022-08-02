@@ -1,0 +1,15 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+*:focus {
+    box-shadow: none !important;
+}
+
+.CardGroup {
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.btn-card {
+    
+    width: 8rem;
+}

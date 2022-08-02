@@ -1,0 +1,16 @@
+@use 'variables';
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: variables.$font-stack;
+}
+
+body {
+    background-color: #23315f;
+}
+
+a, svg {
+    transition: .4s;
+}
